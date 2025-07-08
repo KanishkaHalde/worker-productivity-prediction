@@ -34,9 +34,3 @@ And receive an accurate prediction of **actual productivity**.
 
 ---
 
-## ⚙️ How to Run Locally
-
-### ✅ Install dependencies
-
-```bash
-pip install -r requirements.txt
